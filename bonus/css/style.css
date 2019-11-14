@@ -84,6 +84,10 @@ a:hover {
   width: 150%;
 }
 
+.box:nth-child(2n) {
+  margin-left: 10px;
+  margin-right: 10px;
+}
 .box .discount {
   position: absolute;
   right: 0;
