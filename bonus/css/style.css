@@ -117,11 +117,8 @@ a:hover {
 .box:hover {
   background-color: rgba(0,0,0,0.21);
   z-index: 2;
+  cursor: pointer;
 }
 .box:hover .heart {
   display: block;
-}
-
-.box:hover  {
-  cursor: pointer;
 }
