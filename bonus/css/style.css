@@ -61,3 +61,11 @@ body {
 .box:hover .heart {
   display: block;
 }
+
+.box:hover .heart {
+  display: block;
+}
+
+.box:hover  {
+  cursor: pointer;
+}
